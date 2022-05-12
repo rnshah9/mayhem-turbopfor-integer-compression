@@ -1,0 +1,6 @@
+project: rnshah9/playground
+target: playground
+
+cmds:
+  - cmd: /turbopfor-integer-compression/icapp -Ft -D2 @@
+    filepath: /test.data
